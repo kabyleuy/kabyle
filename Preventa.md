@@ -1,3 +1,5 @@
+# Pre Venta PASKA
+
 ## 1. Preventa para Empresas Constructoras a 4 años
 *  Inversión mínima 3.000 dólares.
 * Inversión máxima 72.000 dólares.
@@ -25,10 +27,12 @@
 * Cierre de propuesta 31/10/2022.
 * Firma de documentos y recepción de fondos 01/12/2022.
 
+
 ## 2. Mixta Empresas Constructoras
 * Inversión mínima 4.000 dólares
 * Inversión máxima 72.000 dólares
 * 25% se destina a Modalidad renta fija y 75 % se destinan a Preventa de licencias.
+
 
 ## Los beneficios generados por la comercialización del Sistema de Gestión Integral de Ejecución de Obra - PASKA, serán destinados a la creación de la fundación Santiago Rodríguez, cuyo objetivo será la prevención del suicidio adolescente.
 
