@@ -5,7 +5,7 @@
  
  
  
-### [PASKA bye Kabyle](./Paska.md)
+### [PASKA by Kabyle](./Paska.md)
  
  
  
