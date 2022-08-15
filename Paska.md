@@ -1,6 +1,6 @@
 # PASKA by Kabyle
 
-![paska logo](https://cdn.rawgit.com/rmora1409/kabyle/master/.github/Logo1-paska-med.jpg)
+![paska logo](https://cdn.rawgit.com/kabyleuy/kabyle/master/.github/Logo1-paska-med.jpg)
 
 
 # ¿Qué es Paska?
