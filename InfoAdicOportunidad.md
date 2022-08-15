@@ -1,4 +1,4 @@
-# Preventa PASKA
+# Oportunidad para inversores - información adicional
 
 ## [Preventa PASKA](./Preventa.md)
 
