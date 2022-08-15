@@ -7,7 +7,7 @@
 
 ## [Oportunidad para inversores](./Oportunidad.md)
 
-* [Contacto](./Contacto.md)
+## [Contacto](./Contacto.md)
 
 
 
