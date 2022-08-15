@@ -1,6 +1,6 @@
 # Oportunidad para inversores
 
-## [Preventa PASKA](./Preventa.md)
+## [Pre venta sistema PASKA](./Preventa.md)
 
 ## [Inversión con renta fija](./InversionRentaFija.md)
 
