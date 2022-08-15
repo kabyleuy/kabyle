@@ -1,4 +1,4 @@
-# Pre Venta PASKA
+# Pre Venta sistema PASKA
 
 ## 1. Preventa para Empresas Constructoras a 4 años
 *  Inversión mínima 3.000 dólares.
