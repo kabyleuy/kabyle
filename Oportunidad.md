@@ -1,4 +1,4 @@
-# Oportunidad de inversión
+# Oportunidad para inversores
 
 ## Inversión a Renta Fija
 * A cinco años
