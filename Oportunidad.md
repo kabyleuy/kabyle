@@ -15,7 +15,7 @@
 * Desde 3000 dólares
 * Devolución del capital al cuarto año
 
-## [Condiciones Generales](./https://github.com/kabyleuy/kabyle/blob/main/Oportunidad.md#condiciones-generales) 
+## [Condiciones Generales](https://github.com/kabyleuy/kabyle/blob/main/Oportunidad.md#condiciones-generales) 
 Garantía hipoteca inmobiliaria
 
 Cierre de propuesta Noviembre 2022
