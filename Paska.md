@@ -44,7 +44,7 @@ Porque “lo que no se mide hoy no se puede gestionar a tiempo”.
 
 # Oportunidad de inversión
 
-## Inversión a Renga Fija
+## Inversión a Renta Fija
 * A cinco años
 * 8% de interés anual
 * Desde 500 dólares
