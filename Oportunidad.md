@@ -1,13 +1,13 @@
 # Oportunidad para inversores
 
-## [Inversión a Renta Fija](./InversionRentaFija.md) 
+## Inversión a Renta Fija
 * A cinco años
 * 8% de interés anual
 * Desde 500 dólares
 * Pago de intereses anualmente
 * Devolución del capital al quinto año
 
-## [Pre Venta Sistema PASKA](./Preventa.md) 
+## Pre Venta Sistema PASKA
 * A cuatro años
 * Licencias Full sin costo
 * Descunetos especiales futuras licnecias
@@ -15,7 +15,7 @@
 * Desde 3000 dólares
 * Devolución del capital al cuarto año
 
-## [Condiciones Generales](https://github.com/kabyleuy/kabyle/blob/main/Oportunidad.md#condiciones-generales) 
+## Condiciones Generales 
 Garantía hipoteca inmobiliaria
 
 Cierre de propuesta Noviembre 2022
