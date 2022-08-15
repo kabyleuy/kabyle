@@ -1,13 +1,13 @@
 # Oportunidad para inversores
 
-## Inversión a Renta Fija
+## [Inversión a Renta Fija](./InversionRentaFija.md) 
 * A cinco años
 * 8% de interés anual
 * Desde 500 dólares
 * Pago de intereses anualmente
 * Devolución del capital al quinto año
 
-## Pre Venta Sistema PASKA
+## [Pre Venta Sistema PASKA](./Preventa.md) 
 * A cuatro años
 * Licencias Full sin costo
 * Descunetos especiales futuras licnecias
