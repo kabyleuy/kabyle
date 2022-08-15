@@ -1,8 +1,9 @@
-## Preventa PASKA
-[Preventa PASKA](./Preventa.md)
+# Preventa PASKA
 
-[Inversión con renta fija](./InversionRentaFija.md)
+## [Preventa PASKA](./Preventa.md)
 
-[Contacto](./Contacto.md)
+## [Inversión con renta fija](./InversionRentaFija.md)
+
+## [Contacto](./Contacto.md)
 
 [Volver al inicio](./README.md)
