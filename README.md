@@ -5,7 +5,7 @@
 
 * [PASKA](./Paska.md)
 
-* [Oportunidad para inversores](https://github.com/kabyleuy/kabyle/blob/main/Paska.md#oportunidad-de-inversi%C3%B3n)
+* [Oportunidad para inversores](./Oportunidad.md)
 
 * [Contacto](./Contacto.md)
 
