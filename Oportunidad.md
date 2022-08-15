@@ -20,4 +20,4 @@ Garantía hipoteca inmobiliaria
 Cierre de propuesta Noviembre 2022
 Firma de documentos y recepción de capital dicembre 2022
 
-[Información Adicional](./InfoAdicOportunidad.md)
+## [Información Adicional](./InfoAdicOportunidad.md)
