@@ -3,7 +3,7 @@
 
 * [Quiénes somos](./QuienesSomos.md)
 
-* [Paska](./Paska.md)
+* [PASKA](./Paska.md)
 
 * [Contacto](./Contacto.md)
 
