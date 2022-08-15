@@ -3,16 +3,16 @@
 ![paska logo](https://cdn.rawgit.com/kabyleuy/kabyle/master/.github/Logo1-paska-med.jpg)
 
 
-# ¿Qué es Paska?
+# ¿Qué es PASKA?
 Paska es una herramienta informática diseñada para registrar, organizar y exponer toda la información que producen sus obras, manteniendo informados y actualizados, en tiempo real, a todos los actores de las mismas.
 
 
-# ¿Por qué Paska es una herramienta única?
+# ¿Por qué PASKA es una herramienta única?
 Porque le brinda la información que genera su obra en tiempo real sin necesidad de destinar más recursos humanos que los necesarios para producir.
 Nosotros le visibilizamos y ordenamos su información, Ud. decide cómo seguir.
 Porque “lo que no se mide hoy no se puede gestionar a tiempo”.
 
-# ¿Qué hace Paska? 
+# ¿Qué hace PASKA? 
 * Trabaja en la nube por intermedio de cualquier dispositivo con conexión a internet
 * Gestiona toda la información de la obra en tiempo real
 * Genera información contrastable y verificable a través de sus registros históricos
@@ -28,7 +28,7 @@ Porque “lo que no se mide hoy no se puede gestionar a tiempo”.
 * Flexibiliza la necesidad de presencialidad para conocer la situación de la obra.
 
 
-# ¿Qué no hace Paska?
+# ¿Qué no hace PASKA?
 * No liquida sueldos ni jornales
 * No gestiona compras
 * No tiene un módulo de gestión de almacén central, pero puede gestionarlo.
@@ -42,7 +42,7 @@ Porque “lo que no se mide hoy no se puede gestionar a tiempo”.
 * No implica nuevos procesos en la gestión de las obras, ni tareas adicionales
 * No aumenta la carga salarial de la obra
 
-* [Oportunidad para inversores](./Oportunidad.md)
+# [Oportunidad para inversores](./Oportunidad.md)
 
 [Inicio](./README.md) 
 
