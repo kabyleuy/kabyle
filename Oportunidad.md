@@ -10,17 +10,17 @@
 ## Pre Venta Sistema PASKA
 * A cuatro años
 * Licencias Full sin costo
-* Descunetos especiales futuras licnecias
-* Tenorno mínimo de inversión 87.20% anual
+* Descuentos especiales futuras licencias 
+* Retorno mínimo de inversión 87.20% anual
 * Desde 3000 dólares
 * Devolución del capital al cuarto año
 
 ## Condiciones Generales 
-Garantía hipoteca inmobiliaria
+* Garantía de hipoteca inmobiliaria
 
-Cierre de propuesta Noviembre 2022
+* Cierre de propuesta Noviembre 2022
 
-Firma de documentos y recepción de capital dicembre 2022
+* Firma de documentos y recepción de capital dicembre 2022
 
 
 ## [Información Adicional](./InfoAdicOportunidad.md)
