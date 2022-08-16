@@ -16,24 +16,24 @@ Porque “lo que no se mide hoy no se puede gestionar a tiempo”.
 * Trabaja en la nube por intermedio de cualquier dispositivo con conexión a internet
 * Gestiona toda la información de la obra en tiempo real
 * Genera información contrastable y verificable a través de sus registros históricos
-* Informa sobre los destinos de todos los recursos volcados a la obra
-* Optimiza el seguimiento del plan de trabajo acordado
-* Establece los costos reales de ejecución de cada tarea de la obra, si se mide se puede gestionar.
-* Brinda evaluación comparativa entre realidad y proyecciones previstas de obra
-* Facilita el seguimiento de la consecución de objetivos
-* Establece el contexto donde analizar el estado de funcionamiento, eficiencia, y eficacia del musculo ejecutor de su empresa
+* Informa sobre los destinos de todos los recursos volcados a la obra.
+* Optimiza el seguimiento del plan de trabajo acordado.
+* Establece los costos reales de ejecución de cada tarea de la obra; si se mide se puede gestionar.
+* Brinda evaluación comparativa entre realidad y proyecciones previstas de obra.
+* Facilita el seguimiento de la consecución de objetivos.
+* Establece el contexto donde analizar el estado de funcionamiento, eficiencia, y eficacia del músculo ejecutor de su empresa.
 * Mantiene a toda la cadena de producción informada de los eventos que cada uno debe conocer.
-* Esta donde este Ud.
-* Optimiza el uso de recursos de gestión
+* Esta donde esté Ud.
+* Optimiza el uso de recursos de gestión.
 * Flexibiliza la necesidad de presencialidad para conocer la situación de la obra.
 
 
 # ¿Qué no hace PASKA?
-* No liquida sueldos ni jornales
-* No gestiona compras
+* No liquida sueldos ni jornales.
+* No gestiona compras.
 * No tiene un módulo de gestión de almacén central, pero puede gestionarlo.
 * No tiene un módulo de presupuestos, pero puede hacerlos.
-* No gestiona todos los recursos de su empresa, solo los de las obras que incorporan Paska
+* No gestiona todos los recursos de su empresa, solo los de las obras que incorporan Paska.
 * No genera costos inmovilizados, lo paga solo cuando lo usa
 * No pierde información
 * No se olvida de avisar sobre cada uno de los eventos configurados
