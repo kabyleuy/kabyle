@@ -30,7 +30,7 @@
 
 * Entrega de licencias Julio 2023
 
-* Garantía de devolución
+* Garantía de satisfacción: 
     Si al cabo del primer año de uso (julio 2024) no le interesa el producto, le
     reintegramos los intereses generados por su inversión a un 8% anual.
 
