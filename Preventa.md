@@ -2,7 +2,7 @@
 
 ## 1. Preventa para Empresas Constructoras a 4 años
 
-*  Inversión mínima 3.000 dólares.
+* Inversión mínima 3.000 dólares.
 
 * Inversión máxima 72.000 dólares.
 
@@ -31,8 +31,7 @@
 * Entrega de licencias Julio 2023
 
 * Garantía de devolución
-
-    a) Si al cabo del primer año de uso (julio 2024) no le interesa el producto, le
+    Si al cabo del primer año de uso (julio 2024) no le interesa el producto, le
     reintegramos los intereses generados por su inversión a un 8% anual.
 
 * Garantía contra hipoteca inmobiliaria, valor de tasación de la propiedad 200.000 dólares.
