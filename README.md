@@ -1,4 +1,4 @@
-# Kabyle sas ![Kabyle](https://cdn.rawgit.com/kabyleuy/kabyle/master/.github/KabYle-SF.png)
+# Kabyle sas 
  
 
 ### [Quiénes somos](./QuienesSomos.md)
