@@ -1,6 +1,6 @@
 # Quiénes nos apoyan:
 
-### [* Inversores particulares han decidio acompañarnos en este camino] 
+### * Inversores particulares han decidio acompañarnos en este camino 
 
 
 
