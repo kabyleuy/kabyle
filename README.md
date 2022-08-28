@@ -1,4 +1,4 @@
-# Kabyle sas ![LogoKabyle](https://cdn.rawgit.com/kabyleuy/kabyle/master/resources/logos/LogoKabyle-Sinfondo-palabraKabYle.png)
+# Kabyle sas 
  
 
 ### [Quiénes somos](./QuienesSomos.md)
