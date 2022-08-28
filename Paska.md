@@ -1,5 +1,5 @@
 # PASKA by Kabyle
-![Kabyle](https://cdn.rawgit.com/kabyleuy/kabyle/master/.github/KabYle-SF.png)
+
 ![paska logo](https://cdn.rawgit.com/kabyleuy/kabyle/master/.github/Logo1-paska-med.jpg)  
 
 
