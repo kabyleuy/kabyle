@@ -2,7 +2,7 @@
 
 ### * Inversores particulares han decidio acompañarnos en este camino:
 
-¡Gracias!
+### ¡Gracias!
 
 Federico
 
