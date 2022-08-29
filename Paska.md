@@ -1,9 +1,9 @@
 # PASKA by Kabyle
 
-![paska logo](https://cdn.rawgit.com/kabyleuy/kabyle/master/.github/Logo1-paska-med.jpg)  
-
+![Logo1-paska-CHCH](https://user-images.githubusercontent.com/111294790/187100277-dbd68fe2-9f6e-4175-b8bc-5bff73e4aed4.jpg)
 
 # ¿Qué es PASKA?
+
 Paska es una herramienta informática diseñada para registrar, organizar y exponer toda la información que producen sus obras, manteniendo informados y actualizados, en tiempo real, a todos los actores de las mismas.
 
 
