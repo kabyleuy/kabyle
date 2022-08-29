@@ -4,7 +4,7 @@
 
 
 
-### [* Empresas constructoras ya nos han dado el "Sí" para el uso de PASKA](/.CartasIntencion.md)
+### [* Empresas constructoras ya nos han dado el "Sí" para el uso de PASKA](./CartasIntencion.md)
 
 
 
