@@ -1,6 +1,6 @@
 # Quiénes nos apoyan:
 
-### - Inversores particulares han decidio acompañarnos en este camino:
+### >> Inversores particulares han decidio acompañarnos en este camino:
 
 ### ¡Gracias!
 
@@ -12,8 +12,8 @@
 
 
 
-### - [Empresas constructoras ya nos han dado el "Sí" para el uso de PASKA](./CartasIntencion.md)
+### >> [Empresas constructoras ya nos han dado el "Sí" para el uso de PASKA](./CartasIntencion.md)
 
 
 
-### - [Inicio](./README.md)
+### [Inicio](./README.md)
