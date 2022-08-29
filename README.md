@@ -4,7 +4,7 @@
  
  
  
-### [PASKA by Kabyle](./Paska.md)!
+### [PASKA by Kabyle](./Paska.md)
 
  
  
