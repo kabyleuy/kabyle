@@ -1,6 +1,6 @@
 # Contacto
 
-Kabyle s.a.s
+**Kabyle s.a.s**
 
 cel: +598 99 766 586   
 Arq. Javier Rodríguez Iglesias 
