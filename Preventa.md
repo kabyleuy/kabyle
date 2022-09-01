@@ -53,8 +53,7 @@
 * 25% se destina a Modalidad renta fija y 75 % se destinan a Preventa de licencias.
 
 
-
-:🇺🇾: Los beneficios generados por la comercialización del Sistema de Gestión Integral de Ejecución de Obra - PASKA, serán destinados a la creación de la fundación Santiago Rodríguez, cuyo objetivo será la prevención del suicidio adolescente.
+:🇺🇾:Los beneficios generados por la comercialización del sistema Paska, serán destinados a la creación de la **Fundación Santiago Rodríguez**, cuyo objetivo será la prevención del suicidio infantil y adolescente.
 
 
 [Contacto](./Contacto.md)
