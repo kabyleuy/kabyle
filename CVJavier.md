@@ -5,4 +5,4 @@
 ![rodriguez javier 20220902_page-0002](https://user-images.githubusercontent.com/111294790/188350296-b9726ddd-34c1-4632-88ef-082adabd16a4.jpg)
 ![rodriguez javier 20220902_page-0003](https://user-images.githubusercontent.com/111294790/188350304-8cdab92a-27ca-4049-80ab-5af58934a2f7.jpg)
 
-### [Inicio](./README.md)
+### [Volver](./QuienesSomos.md)
