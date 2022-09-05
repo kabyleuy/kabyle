@@ -1,6 +1,6 @@
 # Quienes Somos
 
-* [Kabyle](./README.md) es una empresa joven, formada por profesionales de muy larga trayectoria en dos industrias muy diferentes, construcción y tecnología de la información.
+* [Kabyle](./README.md) es una empresa uruguaya joven, formada por profesionales de muy larga trayectoria en dos industrias muy diferentes, construcción y tecnología de la información.
 
 * Profesionales que decidieron unir su conocimiento, experiencia y esfuerzos, con el objetivo de crear una potente herramienta para la industria de la construcción.
 
@@ -9,8 +9,9 @@
 * [Decode.uy](https://decode.uy/) fue la empresa seleccionada para llevar adelante el desarrollo informático del diseño del sistema. Empresa uruguaya de amplia experiencia en el desarrollo de sistemas web, que cuenta con desarrollos para empresas nacionales de primera línea en sus respectivos rubros.
 
 
-[Arq. Javier Rodriguez Iglesias]
-[A/S Rosario Mora] 
+[Arq. Javier Rodriguez Iglesias](./CVJavier.md)
+
+[A/S Rosario Mora](./CVRosario.md)
 
 
 * [Volver al Inicio](./README.md)
