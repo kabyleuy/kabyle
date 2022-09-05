@@ -8,4 +8,9 @@
 
 * [Decode.uy](https://decode.uy/) fue la empresa seleccionada para llevar adelante el desarrollo informático del diseño del sistema. Empresa uruguaya de amplia experiencia en el desarrollo de sistemas web, que cuenta con desarrollos para empresas nacionales de primera línea en sus respectivos rubros.
 
+
+[Arq. Javier Rodriguez Iglesias]
+[A/S Rosario Mora] 
+
+
 * [Volver al Inicio](./README.md)
