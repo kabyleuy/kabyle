@@ -11,7 +11,7 @@
 
 Director: [Arq. Javier Rodriguez Iglesias](./CVJavier.md)
 
-Asesora en TIC: [A/S Rosario Mora](./CVRosario.md)
+Gerente de TIC: [A/S Rosario Mora](./CVRosario.md)
 
 
 * [Volver al Inicio](./README.md)
