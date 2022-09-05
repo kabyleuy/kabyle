@@ -14,4 +14,4 @@
 ![CV ROSARIO MORA-2022_page-0011](https://user-images.githubusercontent.com/111294790/188349769-d79ee413-14c3-4014-9393-ceb9f3fe4773.jpg)
 
 
-### [Inicio](./README.md)
+### [Volver](./QuienesSomos.md)
