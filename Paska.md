@@ -44,5 +44,5 @@ Porque “lo que no se mide hoy no se puede gestionar a tiempo”.
 
 # [Preventa de Paska](./Preventa.md)
 
-[Inicio](./README.md) 
+### [Portada](./README.md)
 
