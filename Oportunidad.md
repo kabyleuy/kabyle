@@ -39,6 +39,6 @@
 
 ## [Información Adicional](./InfoAdicOportunidad.md)
 
-[Contacto](./Contacto.md) 
+### [Contacto](./Contacto.md) 
 
-[Volver a inicio](./README.md) 
+### [Portada](./README.md)
