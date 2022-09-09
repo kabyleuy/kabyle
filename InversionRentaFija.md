@@ -25,4 +25,4 @@
 
 [Volver atrás](./Oportunidad.md)
 
-[Volver al inicio](./README.md)
+[Portada](./README.md)
