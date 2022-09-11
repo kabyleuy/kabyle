@@ -8,4 +8,4 @@ Arq. Javier Rodríguez Iglesias
 e-mail: [kabyle.uy@gmail.com](mailto:kabyle.uy@gmail.com)
 
 
-[Inicio](./README.md)
+[Portada](./README.md)
