@@ -7,9 +7,9 @@
 * PASKA, our real-time construction managing IT system, is our response to the diverse needs of on-the-go management in the construction industry.
 
 
-Director: [Arq. Javier Rodriguez Iglesias](./CVJavier.md)
+CEO: [Arch. Javier Rodriguez Iglesias](./CVJavier.md)
 
-IT Manager: [A/S Rosario Mora](./CVRosario.md)
+CTO: [IT S.A. Rosario Mora](./CVRosario.md)
 
 
 ### [Home page](./CaratulaKabyle_en.md)
