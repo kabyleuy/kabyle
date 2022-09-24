@@ -19,7 +19,7 @@
  
 
 
-### [Quiénes nos apoyanInvestment opportunities](./NosApoyan_en.md)
+### [Our current supporters](./NosApoyan_en.md)
  
 
 
@@ -27,7 +27,7 @@
 
 
 
-### [ContactoContact us](./Contacto_en.md)
+### [Contact us](./Contacto_en.md)
  
 
 
