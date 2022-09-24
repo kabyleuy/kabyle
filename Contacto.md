@@ -1,4 +1,4 @@
-# Contact us
+# Contacto
 
 **Kabyle s.a.s**
 
@@ -8,4 +8,4 @@ Arq. Javier Rodríguez Iglesias
 e-mail: [kabyle.uy@gmail.com](mailto:kabyle.uy@gmail.com)
 
 
-[Home page](./README.md)
+[Portada](./README.md)
