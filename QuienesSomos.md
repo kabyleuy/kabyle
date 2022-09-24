@@ -6,6 +6,8 @@
 
 * Más 180.000 m2 de obras de construcción gestionadas en Uruguay y España, y casi 30 años desarrollando, administrando y dando soporte técnico a sistemas informáticos en importante empresa pública de Uruguay, avalan el conocimiento y capacidad de gestión que nuestra empresa volcó en el diseño de [PASKA](./Paska.md), el primer sistema de gestión integral de ejecución de obra en tiempo real.
 
+* [Decode.uy](https://decode.uy/) fue la empresa seleccionada para llevar adelante el desarrollo informático del diseño del sistema. Empresa uruguaya con amplia experiencia en desarrollo de sistemas web, que cuenta con desarrollos para empresas nacionales de primera línea en sus respectivos rubros.
+
 
 Director: [Arq. Javier Rodriguez Iglesias](./CVJavier.md)
 
