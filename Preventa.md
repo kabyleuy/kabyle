@@ -6,8 +6,6 @@ Licencia para uso de sistema PASKA full por un año - USD 3.000..
 * Descuento de preventa 10% por mes de anticipación en licencias anuales o mayores. 
 * Descuento de preventa 3% en licencias mensuales.
 
-[Contacto](./Contacto.md)
+###[Contacto](./Contacto.md)
 
-[Volver atrás](./Oportunidad.md)
-
-[Volver al inicio](./README.md)
+###[Portada](./README.md)
