@@ -42,7 +42,6 @@ Porque “lo que no se mide hoy no se puede gestionar a tiempo”.
 * No implica nuevos procesos en la gestión de las obras, ni tareas adicionales
 * No aumenta la carga salarial de la obra
 
-# [Preventa de Paska](./Preventa.md)
 
 ### [Portada](./README.md)
 
