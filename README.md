@@ -15,7 +15,7 @@
 
 
 
-### [Preventa de Paska](./Preventa.md)
+### [Preventa de PASKA](./Preventa.md)
 
 
 
