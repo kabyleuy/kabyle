@@ -12,10 +12,6 @@
 
 
 ### [PASKA by Kabyle](./Paska.md)
-
-
-
-### [Oportunidad para inversores](./Oportunidad.md)
  
 
 
