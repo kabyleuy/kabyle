@@ -17,7 +17,7 @@
 
 ## Bienvenido NOVA Construcciones al futuro de la gestión integral de obras. Agradecemos la confianza.
 
-<img width="400" alt="Nova Construcciones" src="https://github.com/kabyleuy/kabyle/blob/main/resources/images/NOVA_logo.png">
+<img width="400" alt="Nova Construcciones" src="https://raw.github.com/kabyleuy/kabyle/master/resources/images/NOVA_logo.png"> 
 
 ### [Quiénes somos](./QuienesSomos.md)
 
