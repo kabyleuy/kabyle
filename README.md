@@ -29,7 +29,6 @@
 
 ### [PASKA by Kabyle](./Paska.md)
 
-### [Presentación 1](./Presentacion1.md)
 
 ### [Contacto](./Contacto.md)
  
