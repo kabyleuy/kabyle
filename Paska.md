@@ -1,6 +1,8 @@
 # PASKA by Kabyle
 
-![Logo1-paska-CHCH](https://user-images.githubusercontent.com/111294790/187100277-dbd68fe2-9f6e-4175-b8bc-5bff73e4aed4.jpg)
+<!---![Logo1-paska-CHCH](https://user-images.githubusercontent.com/111294790/187100277-dbd68fe2-9f6e-4175-b8bc-5bff73e4aed4.jpg)--->
+
+![logoPASKA-registrado-fraseSC2-CH-SF](https://github.com/kabyleuy/kabyle/assets/111294790/6dab91e9-790a-4cba-8102-a1b033914bf8)
 
 # ¿Qué es PASKA?
 
