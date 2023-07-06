@@ -29,7 +29,7 @@
 
 ### [PASKA by Kabyle](./Paska.md)
 
-### [Presentación 1](https://github.com/kabyleuy/kabyle/blob/main/resources/Paska-presentacion-clientes-1.html)
+### [Presentación 1](./Presentacion1.md)
 
 ### [Contacto](./Contacto.md)
  
